@@ -5,7 +5,6 @@ import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.image.BufferStrategy;
 
-import com.tutorial.main.enemies.BasicEnemy;
 import com.tutorial.main.engine.HUD;
 import com.tutorial.main.engine.Handler;
 import com.tutorial.main.engine.KeyInput;
