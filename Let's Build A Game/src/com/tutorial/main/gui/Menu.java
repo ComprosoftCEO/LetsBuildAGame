@@ -30,7 +30,7 @@ public class Menu extends MouseAdapter {
 	}
 
 	public void tick() {
-		
+		System.out.println("Tick!");
 		
 	}
 
